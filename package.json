@@ -22,7 +22,7 @@
   "devDependencies": {
     "bluebird": "^3.5.1",
     "browserify-css": "^0.14.0",
-    "canvas-prebuilt": "^1.6.5-prerelease.1",
+    "canvas-prebuilt": "^2.0.0-alpha.14",
     "chai": "^4.1.2",
     "coffee-script": "^1.12.2",
     "coffeeify": "^2.0.1",
